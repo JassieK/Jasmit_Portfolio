@@ -11,7 +11,7 @@ My first Data Science Portfolio , containing some personal projects I created wh
 
 
 
-# [Project 2 : Plotting Air Quality Index of India on map: Project Overview](file:///C:/Users/hp/OneDrive/Desktop/AQI%20of%20India.html)
+# [Project 2 : Plotting Air Quality Index of India on map: Project Overview](file:///C:/Users/hp/Downloads/AQI%20of%20India.html)
 - For this project I created color detection tool for images and live videos. This could be useful for digital artists , animators and comic creators as many of them use real world scenes to inspire their frames. It shows the RGB value of the pixel selected in the image or the video.
 - This project is written in python using OpenCV and Pandas library.
 
