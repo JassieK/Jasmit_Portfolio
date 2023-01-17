@@ -13,13 +13,9 @@ However, different sensors have different signatures and set of advantages and d
 4.	We can further explore the potential of this project by aiming for object/target detection on a particular region with the help of machine learning or deep learning on the segmented images achieved in our project.
 
 
-
-
 # [Project 2 : An EDA and data storytelling on Disney movies released between 1937 and 2016: Project Overview](https://github.com/JassieK/Disney-Movies-EDA/tree/main)
 EDA and Data storytelling on the Disney Movie Gross Income Dataset. It is to see all the trends of Disney Movies and how their genre, rating affect their performance.
 
 
-
-
-
-![disney-castle-disney](https://user-images.githubusercontent.com/77538080/213025776-270fbc5d-ccb4-42fd-aec5-eef74fd10ed7.gif)
+# [Project 3 :Heart attack analysis and prediction : Project Overview](https://github.com/JassieK/Heart-attack-analysis-and-prediction)
+In this project I have trained a model which will predict whether a person is prone to heart attack based on his physical condition. I Scaled the training data and classified it. Fed the test Data into the system and predict the accuracy of test data W.R.T our trained data on the basis of proneness to heart attack. By using different type of scalers , I have also compared that which scaler gives maximum accuracy.
