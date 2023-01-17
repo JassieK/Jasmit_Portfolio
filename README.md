@@ -19,3 +19,7 @@ EDA and Data storytelling on the Disney Movie Gross Income Dataset. It is to see
 
 # [Project 3 :Heart attack analysis and prediction : Project Overview](https://github.com/JassieK/Heart-attack-analysis-and-prediction)
 In this project I have trained a model which will predict whether a person is prone to heart attack based on his physical condition. I Scaled the training data and classified it. Fed the test Data into the system and predict the accuracy of test data W.R.T our trained data on the basis of proneness to heart attack. By using different type of scalers , I have also compared that which scaler gives maximum accuracy.
+
+
+# [Project 4 :Colour - Detection in real time : Project Overview](https://github.com/JassieK/Colour-Detection/tree/main)
+This project for real-time color detection using OpenCV would involve using the OpenCV library to capture live video frames from a camera or webcam. The frames would then be processed in real-time to detect specific colors of interest.
