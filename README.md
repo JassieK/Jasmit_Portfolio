@@ -1,20 +1,25 @@
 # Jasmit_Portfolio
 My first Data Science Portfolio , containing some personal projects I created while getting familiar with Data science and analytics.
-# [Project 1 : Color Detection: Project Overview](https://github.com/JassieK/Color-detection-)
-- For this project I created color detection tool for images and live videos. This could be useful for digital artists , animators and comic creators as many of them use real world scenes to inspire their frames. It shows the RGB value of the pixel selected in the image or the video.
-- This project is written in python using OpenCV and Pandas library.
+# [Project 1 : Image Segmentation by machine learning using multi-sensor imageries: Project Overview](https://github.com/JassieK/Image-segmentation-using-ML)
+## The main objective of this project is to achieve image segmentation of multi sensor data with the help of machine learning. In this pursuit we have to tackle the following four challenges
+
+1.	The data used here are from multi – sensor images i.e. the resolution of images from different sensors differ from one another as a result there arises a geometrical correction problem within the data. To minimise the error the data used should have the same resolution. To achieve that we need to find an efficient way to Register all the images with one another precisely to get accurate data having the same resolution for further development of the project.
+
+2.	The data achieved after registration of the multi-sensor of data is accurate.
+However, different sensors have different signatures and set of advantages and disadvantages.Therefore, we would have to determine optimal fusion techniques to fuse these images and produce high resolution detailed images which takes the advantage of the information available in each sensor for further analysis and processing of data.
+
+3.	The most important and critical problem of our project is segmentation of the fused images/plates. We have to determine efficient segmentation techniques within the domain of machine learning so that we can achieve desired level of results from our data  
+
+4.	We can further explore the potential of this project by aiming for object/target detection on a particular region with the help of machine learning or deep learning on the segmented images achieved in our project.
 
 
 
-![Screenshot](https://user-images.githubusercontent.com/77538080/209005166-5baace35-548f-4630-910b-c122ce6ab9e3.png)
+
+# [Project 2 : An EDA and data storytelling on Disney movies released between 1937 and 2016: Project Overview](https://github.com/JassieK/Disney-Movies-EDA/tree/main)
+EDA and Data storytelling on the Disney Movie Gross Income Dataset. It is to see all the trends of Disney Movies and how their genre, rating affect their performance.
 
 
 
 
-# [Project 2 : Plotting Air Quality Index of India on map: Project Overview](file:///C:/Users/hp/Downloads/AQI%20of%20India.html)
-- For this project I created color detection tool for images and live videos. This could be useful for digital artists , animators and comic creators as many of them use real world scenes to inspire their frames. It shows the RGB value of the pixel selected in the image or the video.
-- This project is written in python using OpenCV and Pandas library.
 
-
-
-![2022-12-22](https://user-images.githubusercontent.com/77538080/209007296-f85806a3-ad20-49c7-81e0-d0a3d30e0386.png)
+![disney-castle-disney](https://user-images.githubusercontent.com/77538080/213025776-270fbc5d-ccb4-42fd-aec5-eef74fd10ed7.gif)
